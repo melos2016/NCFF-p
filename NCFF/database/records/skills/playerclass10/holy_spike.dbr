@@ -1,0 +1,7 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+ActorName,,
+Class,Skill_BuffRadiusToggled,
+FileDescription,,
+buffSkillName,records/skills/playerclass10/holyspike.dbr,
+instantCast,0,
+fileNameHistoryEntry,mods/ncff/records/skills/playerclass10/new record.dbr,

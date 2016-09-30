@@ -1,0 +1,7 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,,
+Class,SkillSecondary_PetModifier,
+FileDescription,,
+petChanges,,
+petSkillName,records/skills/playerclass07/pets/ske_ut.dbr,
+fileNameHistoryEntry,mods/mymod/records/skills/playerclass07/summon_ske_ut.dbr,

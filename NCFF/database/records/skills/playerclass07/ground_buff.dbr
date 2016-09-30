@@ -1,0 +1,7 @@
+templateName,database/templates/skill_attackbuff.tpl,
+ActorName,,
+Class,Skill_AttackBuff,
+FileDescription,,
+buffSkillName,records/skills/playerclass07/ground_buff_eff.dbr,
+fileNameHistoryEntry,mods/mymod/records/skills/playerclass07/ground_buff.dbr,
+fileNameHistoryEntry,mods/ncff/records/skills/playerclass07/ground_buff.dbr,
